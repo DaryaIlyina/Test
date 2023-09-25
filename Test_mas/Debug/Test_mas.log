@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\79627\OneDrive\Рабочий стол\code\Test_mas\Test_mas\Source.cpp(13,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Test_mas.vcxproj -> C:\Users\79627\OneDrive\Рабочий стол\code\Test_mas\Debug\Test_mas.exe
